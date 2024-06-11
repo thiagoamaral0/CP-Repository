@@ -1,0 +1,11 @@
+{
+  "turmas": [
+    {
+      "idTurma": 1,
+      "nome": "Turma Ingrid",
+      "qtdAlunos": 0,
+      "mediaTurma": 0.0,
+      "alunos": []
+    }
+  ]
+}

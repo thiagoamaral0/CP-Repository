@@ -1,0 +1,40 @@
+{
+  "alunos": [
+    {
+      "idAluno": 1,
+      "nome": "Aluno 1",
+      "listaNotas": [],
+      "media": 0.0
+    },
+    {
+      "idAluno": 2,
+      "nome": "Aluno 2",
+      "listaNotas": [],
+      "media": 0.0
+    },
+    {
+      "idAluno": 3,
+      "nome": "Aluno 3",
+      "listaNotas": [],
+      "media": 0.0
+    },
+    {
+      "idAluno": 4,
+      "nome": "Aluno 4",
+      "listaNotas": [],
+      "media": 0.0
+    },
+    {
+      "idAluno": 5,
+      "nome": "Aluno 5",
+      "listaNotas": [],
+      "media": 0.0
+    },
+    {
+      "idAluno": 6,
+      "nome": "Aluno 6",
+      "listaNotas": [],
+      "media": 0.0
+    }
+  ]
+}
